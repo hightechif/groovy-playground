@@ -1,1 +1,5 @@
-print "Hello World!"
+class  GroovyHi {
+    static void main(String[] args) {
+        println("Hello World!")
+    }
+}
