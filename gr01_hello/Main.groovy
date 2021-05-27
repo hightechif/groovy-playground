@@ -7,7 +7,7 @@ class Main {
      * comment
      */
      
-    static void main(args) {
+    static void main(String[] args) {
         println("Hello World!")
     }
 }
